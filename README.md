@@ -1,2 +1,11 @@
-# ECG-PPG-Signl-Processing
-Multi-modal physiological signal ,   Processing using ECG,PPG and Dynamometer signals in python
+# Project Title
+Muiti-Modal Physiological Signal Processing using ECG, PPG and Dynamometer Signals
+
+# Overview
+This project implements digital signal processing techniques to analyze synchronizes ECG, PPG and force signals
+
+# Features
+* 50 Hz Notch filter for powerline noise removal
+* 4th order Butterworth Low-pass filters
+* Frequency response analysis
+* Multi-channel phsiological signal visualization
